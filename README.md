@@ -3,7 +3,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kim-TaeHyun-A&show_icons=true&theme=dracula&hide="/>
   
-## Hi There 👋
+## Hi There 😆
 
 
 <div align="left">
