@@ -11,7 +11,7 @@ Hello, I'm Tiana <br>
 Thank you for visiting my github. <br>
    <br>
   
-- Yagom Academy iOS Career Stater Camp 5th
+- Yagom Academy iOS Career Starter Camp 5th
  <br>
  
 </div>
