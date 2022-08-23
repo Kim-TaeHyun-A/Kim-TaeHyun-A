@@ -1,7 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=malrang-malrang&amp;&amp;style=flat-square" align="right">
 <div align="center">
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kim-TaeHyun-A&show_icons=true&theme=dracula&hide="/>
   
 ## Hi There 😆
 
